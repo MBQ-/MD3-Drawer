@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/MD3-Drawer/build.gradle",
+      "selection": {
+        "end": {
+          "column": 55,
+          "index": -1,
+          "line": 2
+        },
+        "start": {
+          "column": 55,
+          "index": -1,
+          "line": 2
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/MD3-Drawer/build.gradle"
+}
